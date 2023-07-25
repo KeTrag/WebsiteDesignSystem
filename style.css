@@ -1,0 +1,156 @@
+
+h1 {
+    text-align:center;
+    font-size:36px;
+    font-weight:700;
+    font-family:poppins;
+    color:#4b2328;
+    text-transform:uppercase;
+}
+
+h2 {
+    font-size: 22px;
+    font-family:poppins;
+    font-weight:500;
+    background-color: #395a57;
+    color:aliceblue;
+    text-transform:uppercase;
+
+}
+
+h3 {
+    font-size:18px;
+}
+
+p  {
+    font-size:16px;
+   
+}
+
+li {
+    font-size:16px;
+    font-weight: 400;
+}
+
+.TV {
+    width: 24%;
+    display: inline-block;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.Border {
+    border:#4b2328 1px dotted;
+    border-radius:10px;
+}
+
+.Colours_List {
+    display: block;
+    width: 100%;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+.brown {
+    background-color:#762500;
+}
+
+.green {
+    background-color:#184A2E;
+}
+
+.red {
+    background-color:#BB3000;
+}
+
+.yellow {
+    background-color:#E99217;
+}
+
+.Bebas_Neue400 {
+    font-family:"Bebas Neue" ;
+    font-weight:400px;
+    
+}
+
+.Bebas_Neue400I {
+    font-family:"Bebas Neue" ;
+    font-weight:400px;
+    font-style: italic;
+}
+
+.Bebas_Neue500 {
+    font-family:"Bebas Neue" ;
+    font-weight:500px;
+}
+
+.Borel_400 {
+    font-family:"Borel";
+    font-weight:400px;
+}
+
+.Borel_400I {
+    font-family:"Borel";
+    font-weight:400px;
+    font-style: italic;
+}
+
+.Borel_500 {
+    font-family:"Borel";
+    font-weight:500px;
+}
+
+.Playfair_400 {
+    font-family:"Playfair Display";
+    font-weight:400px;
+}
+
+.Playfair_400I {
+    font-family:"Playfair Display";
+    font-weight:400px;
+    font-style: italic;
+}
+
+.Playfair_500 {
+    font-family:"Playfair Display";
+    font-weight:500px;
+}
+
+.FontsList {
+    display: block;
+    width: 100%;
+ }
+
+.Font {
+    width: 33%;
+    display: inline-block;
+    text-align:center;
+    vertical-align: middle;
+    line-height: 0.8;
+}
+
+.text {
+    width: 33%;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.5;
+}
+
+ul {
+    list-style-position: inside;
+    text-align:center;
+    margin:0;
+    padding:0;
+}
+
+.Heading {
+    font-weight:900;
+    text-align:center;
+    
+}
